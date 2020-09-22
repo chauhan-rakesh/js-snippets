@@ -54,3 +54,9 @@ var show_msg = '';
 					x.className = x.className.replace("show", "")
 				}, 3000);
 			}
+
+
+
+
+//]get geo ip and location details for free and unlimited
+// https://pro.ip-api.com/json/?key=qSA5ctYZHdWsx04
